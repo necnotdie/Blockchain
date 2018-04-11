@@ -28,7 +28,7 @@ public class Encrypt {
     /**
      * 字符串 SHA 加密
      *
-     * @param strSourceText
+     * @param strText,strType
      * @return
      */
     private static String SHA(final String strText, final String strType) {
