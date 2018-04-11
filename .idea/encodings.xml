@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bc/annotation/RequestMapping.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bc/annotation/RestController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bc/block/BlockAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bc/block/BlockBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bc/block/Blockchain.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bc/block/Transaction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bc/server/content/Summer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bc/server/core/BlockServer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bc/server/core/BlockThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bc/server/manager/Request.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bc/server/manager/Response.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bc/util/Summer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bc/util/httputil/MyX509TrustManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Test.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
