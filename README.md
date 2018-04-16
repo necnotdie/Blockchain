@@ -1,7 +1,7 @@
 # Blockchain
 java实现简单的区块链
 
-本程序未使用任何框架，仿照springboot框架制作了定制URL匹配，时间仓促实现了基本功能。
+本程序未使用任何框架，仿照springboot框架制作了定制URL匹配。
 
 使用serversocket对http请求进行了简单处理。
 
